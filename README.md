@@ -1,1 +1,2 @@
-# projecteuler
+# Project Euler solutions
+* https://projecteuler.net
